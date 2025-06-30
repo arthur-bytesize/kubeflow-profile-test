@@ -2,5 +2,5 @@
 profiles:
 - name: researcher
   owner:
-  	kind: user
-  	name: arthur.kim@thebytesiz.ai
+    kind: user
+    name: arthur.kim@thebytesiz.ai
