@@ -1,6 +1,6 @@
 # https://charmed-kubeflow.io/docs/manage-profiles
 profiles:
-- name: researcher
-  owner:
-    kind: user
-    name: arthur.kim@thebytesiz.ai
+  - name: researcher
+    owner:
+      kind: user
+      name: arthur.kim@thebytesiz.ai
